@@ -1,3 +1,9 @@
-python-telegram-bot==20.3
 asyncio
 requests
+python-telegram-bot
+httpx
+httpcore
+certifi
+tornado
+aiohttp
+uvloop
